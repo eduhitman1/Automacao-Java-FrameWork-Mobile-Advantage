@@ -1,0 +1,18 @@
+[
+{
+ "CT0012": {
+  "username": "rathenrique",
+  "email": "henriquetest334@gmail.com",
+  "password": "Rathitman1**",
+  "confirmPassword": "Rathitman1**",
+  "firstname": "Henrique",
+  "lastname": "Matias",
+  "phonenumber": "9383727636",
+  "country": "Albania",
+  "city": "sao paulo",
+  "address": "Rua dos limoes",
+  "state": "SP",
+  "postalcode": "03943772"
+ }
+}
+]
